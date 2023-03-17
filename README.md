@@ -2,7 +2,7 @@
 I'm a software engineer learning about open source
 
 ## Github Stats :pushpin:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iGusky&show_icons=true&hide=stars&theme=ayu-mirage&hide_border=true&)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iGusky&show_icons=true&hide=stars&theme=ayu-mirage&hide_border=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iGusky&layout=compact&theme=ayu-mirage&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## daily.dev
